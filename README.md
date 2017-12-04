@@ -1,6 +1,8 @@
 # game_division
 nodes js powered super simple game review website (from Udemy course)
 
+**Available [here](https://game-division.herokuapp.com/)**
+
 **I made one admin user and one test user for testing!**
 
 **You can always add in a new user to leave a rating**
